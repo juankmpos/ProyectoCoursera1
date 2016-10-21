@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">Coursera</string>
     <string name="texto1">Salut les amis</string>
-    <string name="texto2">Bonne journée</string>
+    <string name="texto2">Bienvenue!</string>
 </resources>
