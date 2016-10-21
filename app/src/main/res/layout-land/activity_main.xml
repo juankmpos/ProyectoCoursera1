@@ -28,5 +28,6 @@
         android:textAlignment="center"
         android:textStyle="normal|bold"
         android:layout_alignParentBottom="true"
-        android:layout_alignStart="@+id/textView" />
+        android:layout_alignStart="@+id/textView"
+        android:layout_alignLeft="@+id/textView"/>
 </RelativeLayout>
